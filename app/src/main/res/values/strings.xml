@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">legaro nfc</string>
+    <string name="aiddescription">service apdu</string>
+    <string name="servicedesc">service apdu</string>
+</resources>
